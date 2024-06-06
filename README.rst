@@ -1,3 +1,6 @@
+Backtest 1000s of minute-by-minute trading algorithms for training AI with auto pric data from: IEX, Tradier and FinViz. Datasets and trading per auto pub to S3 for build AI training datasets for teach DNNs how to trade. Runs on Kub and dock. >150 mil trad hist rows gene from +5000 algo. Heads up: Yahoo's Finance  on 2019-01-03 https://developer.yahoo.com/yql/
+
+
 Stock Analysis Engine
 =====================
 
